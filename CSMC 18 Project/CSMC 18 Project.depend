@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731214173 source:d:\programming\codeblocks\csmc 18 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
